@@ -15,6 +15,7 @@ public class PATS2410FechaCorrectaMes {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
