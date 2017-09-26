@@ -14,7 +14,8 @@ public class PATS2410FechaCorrectaPorMes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      
+        short dia, mes, año;
     }
     
 }
